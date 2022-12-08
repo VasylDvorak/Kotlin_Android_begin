@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val button: Button = findViewById(R.id.button)
+       /* val button: Button = findViewById(R.id.button)
         val textView: TextView = findViewById(R.id.text_view)
         button.setOnClickListener {
             textView.text = getString(R.string.hello)
@@ -59,6 +59,8 @@ class MainActivity : AppCompatActivity() {
         fun getData(): String {
             return "Он самый древний город России"
         }
+  */
     }
+
 
 }
