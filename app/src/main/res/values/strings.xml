@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin_Android_Vasyl_Dvorak</string>
+    <string name="click">Нажми</string>
+    <string name="toast_message">Была ажата кнопка!</string>
+    <string name="hello">Привет</string>
+    <string name="ancient_city">"Он самый древний город России."</string>
+</resources>
